@@ -459,8 +459,10 @@ body {
 }
 
 .background{
-	background-image:url(https://e0.pxfuel.com/wallpapers/13/866/desktop-wallpaper-invitation-card-with-a-light-blue-theme-floral-cards-floral-cards-design-flower-background-wedding-card.jpg);
-background-repeat: no-repeat;
+	background-image:url(https://e0.pxfuel.com/wallpapers/13/866/desktop-wallpaper-invitation-card-with-a-light-blue-theme-floral-cards-floral-cards-design-flower-background-wedding-card.jpg) ;
+	background-position: center;
+	background-size: cover;
+
 }
 
 
